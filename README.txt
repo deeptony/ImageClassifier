@@ -31,6 +31,7 @@ Use a mapping of categories to real names: python predict.py input checkpoint --
 Use GPU for inference: python predict.py input checkpoint --gpu
 
 Checkpoint for trained densenet121 model is in "checkpoint_densenet121.pt"
+Jupyter Notebook implementation of training and validation of CNN models can be found in "Image Classifier Project.ipynb"
 
 
 ALC
